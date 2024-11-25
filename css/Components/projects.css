@@ -1,7 +1,6 @@
 .projects {
     margin-bottom: 16rem;
     scroll-margin-top: 15rem;
-    display: none;
 }
 
 .projects .projects__content {
@@ -58,4 +57,13 @@
     .projects ul li.image img {
         min-width: auto;
     }
+  }
+
+  #printSoundRegister{
+    transition: transform 0.3s ease;
+  } 
+
+
+  #printSoundRegister:hover {
+    transform: scale(1.4); 
   }
