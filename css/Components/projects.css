@@ -78,3 +78,12 @@
   #printMarketInfo:hover {
     transform: scale(1.4); 
   }
+
+  #printEasyProjects {
+    transition: transform 0.3s ease;
+    size: 100em;
+  }
+
+  #printEasyProjects:hover{
+    transform: scale(1.4); 
+  }
